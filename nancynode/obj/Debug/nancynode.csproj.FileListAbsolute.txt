@@ -1,0 +1,16 @@
+C:\Users\Lionel\Documents\Visual Studio 2013\Projects\nancynode\nancynode\bin\Debug\nancynode.dll
+C:\Users\Lionel\Documents\Visual Studio 2013\Projects\nancynode\nancynode\bin\Debug\nancynode.pdb
+C:\Users\Lionel\Documents\Visual Studio 2013\Projects\nancynode\nancynode\bin\Debug\Nancy.dll
+C:\Users\Lionel\Documents\Visual Studio 2013\Projects\nancynode\nancynode\bin\Debug\Nancy.xml
+C:\Users\Lionel\Documents\Visual Studio 2013\Projects\nancynode\nancynode\obj\Debug\nancynode.csprojResolveAssemblyReference.cache
+C:\Users\Lionel\Documents\Visual Studio 2013\Projects\nancynode\nancynode\obj\Debug\nancynode.dll
+C:\Users\Lionel\Documents\Visual Studio 2013\Projects\nancynode\nancynode\obj\Debug\nancynode.pdb
+C:\Users\Lionel\Documents\Visual Studio 2013\Projects\nancynode\nancynode\bin\Debug\Views\Docker\index.cshtml
+C:\Users\Lionel\Documents\GitHub\nancynode\nancynode\bin\Views\Docker\index.cshtml
+C:\Users\Lionel\Documents\GitHub\nancynode\nancynode\bin\nancynode.dll
+C:\Users\Lionel\Documents\GitHub\nancynode\nancynode\bin\nancynode.pdb
+C:\Users\Lionel\Documents\GitHub\nancynode\nancynode\bin\Nancy.dll
+C:\Users\Lionel\Documents\GitHub\nancynode\nancynode\bin\Nancy.xml
+C:\Users\Lionel\Documents\GitHub\nancynode\nancynode\obj\Debug\nancynode.csprojResolveAssemblyReference.cache
+C:\Users\Lionel\Documents\GitHub\nancynode\nancynode\obj\Debug\nancynode.dll
+C:\Users\Lionel\Documents\GitHub\nancynode\nancynode\obj\Debug\nancynode.pdb
